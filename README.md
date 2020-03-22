@@ -1,11 +1,11 @@
 # Intracellular-chips-quantification
 
-ICC: Intracellular chip
+ICC: Intracellular nanochip
 PMT: Photomultiplier (device that converts photons from sample fluorecence into electrical signal, and ultimatelly into pixel value)
 ROI: Region of Interest
 
-This file is a user friendly MATLAB microscopy image analysis algortithm. It guides the user through all the steps needed and displays the results in 4 variables.
-The user at the end of each session should get the data and copy it on an spread sheet.
+This file is a user friendly MATLAB microscopy image analysis algortithm. It guides the user through all the steps needed and displays the results in 5 variables.
+The user at the end of each session should get the data of these and copy them on an spread sheet.
 
 Workflow:
 It uses as input the bright field and the corresponding fluorescence images of cell-nanochips cultures from fluorescence/confocal microscopy acquisitions.
