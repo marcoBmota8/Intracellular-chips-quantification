@@ -319,7 +319,7 @@ while analyzing==1
         valuesOUT(8)=round(imagemeanmaxOUT);
         %keep the values from today'analysis in a matrix where the rows are each image
         %and columns are the different values obtained
-        %The first row are the names of those values
+        %The first row are the names of those values.
         cont2=cont2+1;
         dataOUT(cont2,1)={name};
         for b = 2:(length(valuesOUT)+1)
